@@ -16,8 +16,8 @@ You should make sure you keep your project root files up-to-date. Information fo
 Individual code contribution will be used to evaluate individual contribution to the project.
 
 
+---
 
-# Github front page
 
 # WETUBE: Your Personalized Video Playlist
 
