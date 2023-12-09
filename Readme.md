@@ -21,7 +21,7 @@ Individual code contribution will be used to evaluate individual contribution to
 
 # WETUBE: Your Personalized Video Playlist
 
----
+
 
 Welcome to WETUBE, a personalized playlist app that connects you to the world! 
 
@@ -35,7 +35,7 @@ Wanna try? xxx (link)
 
 (picture of the website)
 
----
+
 
 ## Features
 
@@ -49,7 +49,7 @@ Wanna try? xxx (link)
     Connect effortlessly on WETUBE with Friends' Recommendations. Discover new connections based on location, shared habits, and mutual friends within the app. Build a vibrant network around common interests, fostering meaningful interactions and expanding your social circle.
     
 
----
+
 
 ## Getting Started
 
@@ -63,7 +63,7 @@ Wanna try? xxx (link)
      Wanna see what’s other people’s watching? Add a friend!
     
 
----
+
 
 ## Technologies
 
@@ -74,7 +74,7 @@ Wanna try? xxx (link)
 | UI/UX Design | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 | Libraries  | ![Toastify](https://img.shields.io/badge/Toastify-272b33?logo=square&logoColor=white&style=for-the-badge) ![ReCharts](https://img.shields.io/badge/ReCharts-272b33?logo=square&logoColor=white&style=for-the-badge) |
 
----
+
 
 ## Instructions
 
@@ -111,7 +111,7 @@ If you want to run this project on your local computer, follow these steps:
     ```
     
 
----
+
 
 ## Developer Team
 
