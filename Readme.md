@@ -113,13 +113,13 @@ If you want to run this project on your local computer, follow these steps:
 
 ---
 
-Developer Team
+### Developer Team
 
-- Bruce
-- David
-- Lumi
-- John
+- [Bruce Yin](https://github.com/Bruceyty)
+- [David Jiang](https://github.com/Davidlasky)
+- [Lumi Xu](https://github.com/Lumi-works)
+- [John Randolph](https://github.com/johnjr4)
 
-Mentors
+### Mentors
 
 - UIUC CS411 Course Staffs
