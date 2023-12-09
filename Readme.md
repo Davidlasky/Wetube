@@ -37,7 +37,7 @@ Wanna try? xxx (link)
 
 ---
 
-### Features
+## Features
 
 - Browsing Habits Analysis:
     
@@ -51,7 +51,7 @@ Wanna try? xxx (link)
 
 ---
 
-### Getting Started
+## Getting Started
 
 - Create a Playlist:
     
@@ -65,7 +65,7 @@ Wanna try? xxx (link)
 
 ---
 
-### Technologies
+## Technologies
 
 | 🖥️ | ⚙️ |
 | --- | --- |
@@ -76,7 +76,7 @@ Wanna try? xxx (link)
 
 ---
 
-### Instructions
+## Instructions
 
 If you want to run this project on your local computer, follow these steps:
 
@@ -113,13 +113,13 @@ If you want to run this project on your local computer, follow these steps:
 
 ---
 
-### Developer Team
+## Developer Team
 
 - [Bruce Yin](https://github.com/Bruceyty)
 - [David Jiang](https://github.com/Davidlasky)
 - [Lumi Xu](https://github.com/Lumi-works)
 - [John Randolph](https://github.com/johnjr4)
 
-### Mentors
+## Mentors
 
 - UIUC CS411 Course Staffs
