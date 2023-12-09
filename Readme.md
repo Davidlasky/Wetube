@@ -60,7 +60,7 @@ Wanna try? xxx (link)
 
 - Add a friend:
     
-     Wanna see what’s other people’s watching? Add a friend!
+     Wanna see what other people are watching? Add a friend!
     
 
 
@@ -117,8 +117,8 @@ If you want to run this project on your local computer, follow these steps:
 
 - [Bruce Yin](https://github.com/Bruceyty)
 - [David Jiang](https://github.com/Davidlasky)
-- [Lumi Xu](https://github.com/Lumi-works)
 - [John Randolph](https://github.com/johnjr4)
+- [Lumi Xu](https://github.com/Lumi-works)
 
 ## Mentors
 
