@@ -1,4 +1,5 @@
 # WETUBE: Your Personalized Video Playlist
+![logo-photoaidcom-2x-ai-zoom](https://github.com/Davidlasky/Wetube/assets/40486797/8f082045-6bcb-4bdb-9141-7374ec35ab9a)
 
 
 Welcome to WETUBE, a personalized playlist platform that brings a world of curated content right to your fingertips!  
@@ -96,7 +97,16 @@ If you want to run this project on your own, first setup a sql server on platfor
     
 
 
+## Contributors
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 ## Developer Team
 
 - [Bruce Yin](https://github.com/Bruceyty)
