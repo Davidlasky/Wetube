@@ -8,16 +8,16 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "Lumi-works",
-      "name": "Lumi-works",
-      "avatar_url": "https://avatars.githubusercontent.com/u/102558017?v=4",
-      "profile": "https://github.com/Lumi-works",
+      "login": "Davidlasky",
+      "name": "LaskyJ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40486797?v=4",
+      "profile": "https://github.com/Davidlasky",
       "contributions": [
         "code",
         "blog",
-        "design",
-        "financial",
-        "doc"
+        "maintenance",
+        "platform",
+        "security"
       ]
     }
   ],
