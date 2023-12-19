@@ -1,4 +1,4 @@
-# WETUBE: Your Personalized Video Playlist
+# WETUBE: Your Personalized Video Playlist Platform
 ![logo-photoaidcom-2x-ai-zoom](https://github.com/Davidlasky/Wetube/assets/40486797/8f082045-6bcb-4bdb-9141-7374ec35ab9a)
 
 
