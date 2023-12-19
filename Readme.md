@@ -1,61 +1,45 @@
-# Team045-GoodTeamName
-This is a template for CS411 project repository. Please make sure that your title follows the convention: [TeamID]-[YourTeamName]. All TeamID should have a three digit coding (i.e. if you are team 20, you should have `team020` as your ID.). You should also make sure that your url for this repository is [fa23-cs411-team000-teamname.git] so TAs can correctly clone your repository and keep them up-to-date.
-
-Once you setup your project, please remember to submit your team formation to the team form.
-
-## Permission
-You should make sure you allow TAs to access your repository. You can add TA(s) as a collaborator to your repository.
-
-## Preparing for your release
-Eash submission should be in it's own [release](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases). Release are specific freezes to your repository. You should submit your commit hash on canvas or google sheet. When tagging your stage, please use the tag `stage.x` where x is the number to represent the stage.
-
-## Keeping things up-to-date
-You should make sure you keep your project root files up-to-date. Information for each file/folders are explained.
-
-## Code Contribution
-Individual code contribution will be used to evaluate individual contribution to the project.
-
-
----
-
-
 # WETUBE: Your Personalized Video Playlist
 
 
+Welcome to WETUBE, a personalized playlist platform that brings a world of curated content right to your fingertips!  
 
-Welcome to WETUBE, a personalized playlist app that connects you to the world! 
-
-You can explore videos based on your interests and make new friends with similar preferences.🍿
-
-Wanna try? xxx (link)
-
-(picture of the website)
-
-(picture of the website)
-
-(picture of the website)
-
+Our website, powered by robust MySQL databases, offers an intuitive interface that lets you explore and organize videos into playlists for a seamless viewing experience. You can explore videos based on your interests and make new friends with similar preferences.🍿
+<img width="1920" alt="Screenshot 2023-12-19 at 17 45 20" src="https://github.com/Davidlasky/Wetube/assets/40486797/53b8d347-f99a-4121-aa1f-a81237f1b6a5">
 
 
 ## Features
+- Embedded Videos:
+
+  At WETUBE, we believe that every video tells a story, and every playlist sets a mood. Dive into an expansive library where each video is presented within an iframe for uninterrupted play, allowing you to immerse yourself in content without ever leaving the comfort of your dashboard. For every video you watch, you'll find a detailed stats section. This is where the story behind the screen comes to life, displaying the channel name, category, and the number of views & likes —- a testament to the video's impact and popularity.
+  <img width="1920" alt="Screenshot 2023-12-19 at 17 18 29" src="https://github.com/Davidlasky/Wetube/assets/40486797/f3defbc5-ab09-4731-ac9c-68de03fbced1">
+
 
 - Browsing Habits Analysis:
     
-    WETUBE introduces Browsing Habits Analysis, showcasing your video preferences through visually appealing bar and pie charts. Easily understand your favorite genres and how your interests evolve over time, enhancing your overall video discovery experience.
-    
+    WETUBE introduces Browsing Habits Analysis, showcasing your video preferences through visually appealing bar and pie charts. Easily understand your favorite genres and how your interests evolve over time, enhancing your overall video discovery experience.<img width="1703" alt="Screenshot 2023-12-19 at 17 22 27" src="https://github.com/Davidlasky/Wetube/assets/40486797/4967b64b-668c-4148-9513-f36052a02f4f">
 
+    
 - Friends Recommendation:
     
-    Connect effortlessly on WETUBE with Friends' Recommendations. Discover new connections based on location, shared habits, and mutual friends within the app. Build a vibrant network around common interests, fostering meaningful interactions and expanding your social circle.
-    
+    Find friends who love the same videos as you do, and explore new content through the lens of common preferences. Our recommendation engine not only suggests videos but also potential friends, enhancing your social experience by connecting you with like-minded individuals based on locations, commonly liked videos and personal category preferences. Build a vibrant network around common interests, fostering meaningful interactions and expanding your social circle.
+    <img width="1765" alt="Screenshot 2023-12-19 at 17 27 16" src="https://github.com/Davidlasky/Wetube/assets/40486797/f9b82047-c947-4164-9729-b7b5e62c148c">
 
+- Trending Videos:
+
+  Our trending page is the pulse of WETUBE. Here, you'll discover what's hot in your region through engaging bar and pie charts, visualizing the popularity and viewership of the latest trends. This interactive page not only highlights trending videos but also connects you with other users who are riding the same wave of trending content.
+
+    At the bottom of the trending page, you'll find personalized user recommendations, bringing you closer to others in your region who are watching what's in vogue. It's a social and visual feast, tailored to keep you at the forefront of regional trends and connected to the WETUBE community.
+ <img width="1739" alt="Screenshot 2023-12-19 at 17 54 07" src="https://github.com/Davidlasky/Wetube/assets/40486797/7d0d26ab-ccab-414d-822d-1fdff234751f">
+ 
 
 
 ## Getting Started
 
 - Create a Playlist:
     
-    Start the journey by creating a playlist and give it a fitted name, you can also try naming it “friends’ playlists” to auto-generate playlists from your friend’s favorite videos
+    Start the journey by creating a playlist and give it a fitted name, you can also try naming it “friends’ playlists” to auto-generate playlists from your friend’s favorite videos.
+  <img width="1920" alt="Screenshot 2023-12-19 at 17 29 28" src="https://github.com/Davidlasky/Wetube/assets/40486797/66ed1d79-5b39-48bf-a5fd-89d0db1ed15c">
+
     
 
 - Add a friend:
@@ -78,7 +62,7 @@ Wanna try? xxx (link)
 
 ## Instructions
 
-If you want to run this project on your local computer, follow these steps:
+If you want to run this project on your own, first setup a sql server on platforms like GCP or AWS, then download the Trending YT Video datasets from Kaggle, create tables as specified in this [guide](https://github.com/Davidlasky/Wetube/blob/main/doc/stage3.md), and finally do the following steps:
 
 1. Clone the repo:
     
@@ -97,14 +81,15 @@ If you want to run this project on your local computer, follow these steps:
     ```bash
     npm install
     ```
-    
-4. Start the backend server:
+4. Change the IP address in each file(except from the connection.js, where you should replace the IP address with your sql server's IP) to your server's IP or change to 'localhost' if you just want to run it locally.
+
+5. Start the backend server:
     
     ```bash
     node server/server.js
     ```
     
-5. Start the frontend server:
+6. Start the frontend server:
     
     ```bash
     npm start
