@@ -44,6 +44,19 @@
         "bug",
         "content"
       ]
+    },
+    {
+      "login": "johnjr4",
+      "name": "johnjr4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92764125?v=4",
+      "profile": "https://github.com/johnjr4",
+      "contributions": [
+        "code",
+        "data",
+        "design",
+        "platform",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
