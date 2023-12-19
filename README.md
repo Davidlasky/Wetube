@@ -1,4 +1,7 @@
 # WETUBE: Your Personalized Video Playlist Platform
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![logo-photoaidcom-2x-ai-zoom](https://github.com/Davidlasky/Wetube/assets/40486797/8f082045-6bcb-4bdb-9141-7374ec35ab9a)
 
 
@@ -100,6 +103,20 @@ If you want to run this project on your own, first setup a sql server on platfor
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Lumi-works"><img src="https://avatars.githubusercontent.com/u/102558017?v=4?s=100" width="100px;" alt="Lumi-works"/><br /><sub><b>Lumi-works</b></sub></a><br /><a href="https://github.com/Davidlasky/Wetube/commits?author=Lumi-works" title="Code">💻</a> <a href="#blog-Lumi-works" title="Blogposts">📝</a> <a href="#design-Lumi-works" title="Design">🎨</a> <a href="#financial-Lumi-works" title="Financial">💵</a> <a href="https://github.com/Davidlasky/Wetube/commits?author=Lumi-works" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
