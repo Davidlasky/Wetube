@@ -28,8 +28,7 @@ Our website, powered by robust MySQL databases, offers an intuitive interface th
 
   Our trending page is the pulse of WETUBE. Here, you'll discover what's hot in your region through engaging bar and pie charts, visualizing the popularity and viewership of the latest trends. This interactive page not only highlights trending videos but also connects you with other users who are riding the same wave of trending content.
 
-    At the bottom of the trending page, you'll find personalized user recommendations, bringing you closer to others in your region who are watching what's in vogue. It's a social and visual feast, tailored to keep you at the forefront of regional trends and connected to the WETUBE community.
- <img width="1739" alt="Screenshot 2023-12-19 at 17 54 07" src="https://github.com/Davidlasky/Wetube/assets/40486797/7d0d26ab-ccab-414d-822d-1fdff234751f">
+    At the bottom of the trending page, you'll find personalized user recommendations, bringing you closer to others in your region who are watching what's in vogue. It's a social and visual feast, tailored to keep you at the forefront of regional trends and connected to the WETUBE community.<img width="1739" alt="Screenshot 2023-12-19 at 17 54 07" src="https://github.com/Davidlasky/Wetube/assets/40486797/7d0d26ab-ccab-414d-822d-1fdff234751f">
  
 
 
