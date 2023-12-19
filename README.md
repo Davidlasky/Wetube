@@ -1,6 +1,6 @@
 # WETUBE: Your Personalized Video Playlist Platform
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![logo-photoaidcom-2x-ai-zoom](https://github.com/Davidlasky/Wetube/assets/40486797/8f082045-6bcb-4bdb-9141-7374ec35ab9a)
 
@@ -108,6 +108,7 @@ If you want to run this project on your own, first setup a sql server on platfor
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Davidlasky"><img src="https://avatars.githubusercontent.com/u/40486797?v=4?s=100" width="100px;" alt="LaskyJ"/><br /><sub><b>LaskyJ</b></sub></a><br /><a href="https://github.com/Davidlasky/Wetube/commits?author=Davidlasky" title="Code">💻</a> <a href="#blog-Davidlasky" title="Blogposts">📝</a> <a href="#maintenance-Davidlasky" title="Maintenance">🚧</a> <a href="#platform-Davidlasky" title="Packaging/porting to new platform">📦</a> <a href="#security-Davidlasky" title="Security">🛡️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Lumi-works"><img src="https://avatars.githubusercontent.com/u/102558017?v=4?s=100" width="100px;" alt="Lumi-works"/><br /><sub><b>Lumi-works</b></sub></a><br /><a href="https://github.com/Davidlasky/Wetube/commits?author=Lumi-works" title="Code">💻</a> <a href="#blog-Lumi-works" title="Blogposts">📝</a> <a href="#design-Lumi-works" title="Design">🎨</a> <a href="#financial-Lumi-works" title="Financial">💵</a> <a href="https://github.com/Davidlasky/Wetube/commits?author=Lumi-works" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
