@@ -50,7 +50,6 @@ Our website, powered by robust MySQL databases, offers an intuitive interface th
      Wanna see what other people are watching? Add a friend!
     
 
-
 ## Technologies
 
 | 🖥️ | ⚙️ |
