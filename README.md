@@ -107,6 +107,7 @@ If you want to run this project on your own, first setup a sql server on platfor
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## Developer Team
 
 - [Bruce Yin](https://github.com/Bruceyty)
