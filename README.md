@@ -51,7 +51,6 @@ Our website, powered by robust MySQL databases, offers an intuitive interface th
     
 
 
-
 ## Technologies
 
 | 🖥️ | ⚙️ |
